@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SafeGuard AI for Kids",
+  "description": "Real-time AI-powered harmful content detection and parental control system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
